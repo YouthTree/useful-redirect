@@ -1,0 +1,77 @@
+@import url(http://fonts.googleapis.com/css?family=Flamenco:400);
+@import url(http://fonts.googleapis.com/css?family=Terminal+Dosis:400,700);
+
+body {
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	background-image: url(images/bg.png); padding:0px;
+	text-align:center;
+}
+
+#content {
+	width:860px;
+	margin:0px auto;
+	text-align:center;
+	padding: 0px;
+
+
+}
+
+#middle {
+	padding-bottom: 130px;
+	padding-top: 70px;
+}
+
+.leftimg {
+margin-left: 40px;
+float:left;
+}
+
+.middleimg {
+	margin-left: 90px;
+	padding-top: 100px;
+	height: 252px;
+	margin-right: 80px;
+	float:left;
+	
+}
+.rightimg {
+float:left;
+padding-top: 35px;
+	
+}
+.toptext {
+font-size: 29px;
+width: 860px;
+font-family: Flamenco, sans-serif;
+padding-top: 24px;
+	
+}
+.toptext strong {
+font-family: "Terminal Dosis", sans-serif;
+font-size: 30px;
+width: 860px;
+	
+}
+.bttext {
+padding-top: 35px;
+font-family: "Terminal Dosis", sans-serif;
+font-size: 20px;
+width: 860px;
+	
+}
+.tptext {
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+color: #3a8100;
+padding-top: 45px;
+font-family: Flamenco, sans-serif;
+font-size: 28px;
+width: 640px;
+	
+}
+ </div>
+ </div>
